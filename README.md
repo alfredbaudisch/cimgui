@@ -111,6 +111,7 @@ Notes:
 * [imgui-rs](https://github.com/Gekkio/imgui-rs)
 * [imgui-pas](https://github.com/dpethes/imgui-pas)
 * [crystal-imgui](https://github.com/oprypin/crystal-imgui)
+* [raylib-cimgui](https://github.com/alfredbaudisch/raylib-cimgui)
 
 # C examples based on cimgui
 
